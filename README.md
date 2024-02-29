@@ -9,6 +9,6 @@ Este projeto emprega técnicas de aprendizado de máquina, especificamente redes
 
 - Matheus Vinícius Ferreira Pinheiro
 - Emanuela Bezerra de Lima
-- Geovan gomes de oliveira júnior
-- Eriky abreu veloso
-- Rosana cibely batista rego
+- Geovan Gomes de Oliveira Júnior
+- Eriky Abreu Veloso
+- Rosana Cibely Batista Rego
