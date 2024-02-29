@@ -1,4 +1,4 @@
-# Projeto de Reconhecimento de Gestos em Linguagens de Sinais
+# Modelo de Rede Neural Convolucional para Classificação da Linguagem de Sinais
 
 ![image](https://github.com/matheusvfp/Liguagem_Sinais/assets/65199677/d02612bc-eb06-4161-92d3-f3d847712343)
 
